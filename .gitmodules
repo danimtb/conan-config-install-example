@@ -1,0 +1,3 @@
+[submodule "hooks/attribute_checker"]
+	path = hooks/attribute_checker
+	url = git@github.com:danimtb/conan-config-install-hook-example.git
